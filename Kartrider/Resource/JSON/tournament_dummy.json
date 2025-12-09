@@ -1,0 +1,17 @@
+[
+    {
+        "meta": {
+            "title": "다시 등장한 테스트 토너먼트",
+            "summary": "이야!",
+            "type": "tournament",
+            "hashtags": ["빌런", "회사", "토너먼트"],
+            "thumbnailName": "thumb_empty"
+        },
+        "candidates": [
+            { "name": "선택지A" },
+            { "name": "선택지B" },
+            { "name": "선택지C" },
+            { "name": "선택지D" },
+        ]
+    },
+]
