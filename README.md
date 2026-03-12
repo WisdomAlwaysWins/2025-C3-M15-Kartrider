@@ -1,6 +1,10 @@
-### 🛠 Lottie 라이브러리 설치 방법
+## 🎮 Pickacha
+선호도를 기반으로 토너먼트 방식으로 선택을 돕는 앱
 
-패키지 버전 정보는 `Package.resolved`에 포함되어 있으나,
-처음 clone/pull 후 아래 중 하나는 꼭 실행해주세요:
+**Tech**
+SwiftUI · SwiftData · Clean Architecture · MVVM
 
-- Xcode → File → Packages → Resolve Package Versions
+**Features**
+- 토너먼트 매칭 로직
+- 사용자 선택 히스토리 저장
+- 콘텐츠 기반 추천
